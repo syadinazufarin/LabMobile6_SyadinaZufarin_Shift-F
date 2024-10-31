@@ -1,5 +1,8 @@
 # LabMobile6_SyadinaZufarin_Shift-F
-Penjelasan Proyek :
+### Kode lengkap ada di Google Drive : 
+https://drive.google.com/drive/folders/1V64ycFWDrNqunB9tuaEp5OkIVCtfMEH1?usp=sharing
+
+### Penjelasan Proyek :
 Proyek ini menambahkan komponen ionic card dan ionic select. 
 Berikut adalah penjelasan singkat tentang komponen **`ion-card`** dan **`ion-select`** dalam Ionic:
 
@@ -42,6 +45,11 @@ Berikut adalah penjelasan singkat tentang komponen **`ion-card`** dan **`ion-sel
 
 7. **Jalankan Aplikasi**: Setelah semua langkah selesai, gunakan perintah `ionic serve` untuk menjalankan aplikasi.
    
+### Screenshoot Aplikasi :
+
+![Screenshot Halaman Utama](assets/Halaman%20Utama.png)
+![Screenshot Memilih Jurusan](assets/Memilih%20Jurusan.png)
+![Screenshot Halaman Akhir](assets/Tampilan%20Akhir.png)
 
 
 
